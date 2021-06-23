@@ -18,8 +18,7 @@ const SongsDetails: React.FC<SongsDetailsProps> = (props: any) => {
   const _goBack = () => {
     props.navigation.goBack();
   }
-  console.log("props", props);
-
+  
   return (
     <>
       <SafeAreaView style={styles.statusBarColor}>
