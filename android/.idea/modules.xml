@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrownStack.iml" filepath="$PROJECT_DIR$/.idea/modules/CrownStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CrownStack.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CrownStack.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-501023888/CrownStack.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-501023888/CrownStack.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/203749337/CrownStack.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/203749337/CrownStack.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-788356303/CrownStack.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-788356303/CrownStack.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-646952516/CrownStack.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-646952516/CrownStack.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1597643790/CrownStack.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1597643790/CrownStack.react-native-svg.iml" />
+    </modules>
+  </component>
+</project>
